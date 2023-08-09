@@ -9,13 +9,11 @@ iii) Bootstrap
 
 
 DOWNLOAD LINKS:
-
 The download links on the site are obtained from the [RGmechanics](https://repack-mechanics.com/) site.
 It is a website through which we may get PC games.
 
 
 Images Used:
-
 images collected at random from Google
 
 
