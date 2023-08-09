@@ -2,8 +2,11 @@
 Sample blog website of GTA
 
 Languages used:
+
 i) HTML
+
 ii) CSS
+
 iii) Bootstrap
 
 DOWNLOAD LINKS:
